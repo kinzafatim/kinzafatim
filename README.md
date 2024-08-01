@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20I'm%20Kinza%20Fatima%20🚀&fontSize=40&height=150&width=100%&section=header&animation=fadeIn&fontAlignY=0.7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20I'm%20Kinza%20Fatima%20&fontSize=40&height=140&width=100%&section=header"/>
 </p>
 
 ## <img src='https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif' height=20 /> About Me:
