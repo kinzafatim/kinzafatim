@@ -21,6 +21,7 @@
 ---
 
 ## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinza-fatima-909889203/) 
+📧 Email: kinzaf54@gmail.com
 
 <!-- Crafted with GPRM ( https://gprm.itsvg.in ) -->
 
