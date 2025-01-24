@@ -6,7 +6,7 @@
 
 <img align='right' src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height="250" alt='Kinza Fatima'>
 
-<p style="max-width: 490px;">A 3rd-year Computer Science student at <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a> with a passion for learning and innovating in the tech field. I have a keen interest in exploring new technologies, cyber security, and ethical hacking. I am always excited to contribute to the tech community and expand my skills in cutting-edge areas of technology.</p>
+<p style="max-width: 490px;">A Final-year Computer Science student at <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a> with a passion for learning and innovating in the tech field. I have a keen interest in exploring new technologies, cyber security, and ethical hacking. I am always excited to contribute to the tech community and expand my skills in cutting-edge areas of technology.</p>
 
 **💬 Ask me about:**
 
